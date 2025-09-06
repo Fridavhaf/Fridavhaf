@@ -7,7 +7,7 @@ Welcome to my GitHub profile. Thank you for taking an interest in my projects.
 
 ## Featured Projects
 
-**MyShop (https://github.com/fridavhaf/ShopMVC)**
+###MyShop (https://github.com/fridavhaf/ShopMVC)**
 ASP.NET Core MVC web app with dynamic content including a carousel, table and grid views, item details, and partial views for reusable components.  
 
 **data1700_oblig3 (https://github.com/fridavhaf/data1700_oblig3)**
