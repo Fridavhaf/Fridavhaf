@@ -13,7 +13,7 @@ ASP.NET Core MVC web app with dynamic content including a carousel, table and gr
 **data1700_oblig3 (https://github.com/fridavhaf/data1700_oblig3)**
 Web application for ordering cinema tickets, supporting add, edit, delete, and delete-all operations with input validation.  
 
-**DATA2410 File Transfer (Spring 2025)**
+#DATA2410 File Transfer (Spring 2025)#
 Python project implementing file transfer with a reliable DRTP protocol over UDP, including Go-Back-N sliding window and optional packet discard testing.  
 
 **Project-Cutting-Edge**
