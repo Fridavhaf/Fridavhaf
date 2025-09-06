@@ -4,5 +4,5 @@ Welcome to my GitHub profile!
 
 ### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fridadev&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fridavhaf&layout=compact&theme=default)
 
