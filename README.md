@@ -1,4 +1,4 @@
-# Hello, my name is Frida!
+# Hello, I'm Frida!
 
 Welcome to my GitHub profile.
 Thank you for showing interest in my projects.
